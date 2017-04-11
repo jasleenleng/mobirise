@@ -82,10 +82,11 @@
 }
 #content5-17 .mbr-article {
   color: #fff;
+  text-align: center;
 }
 #content5-18 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
 #content5-18 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -96,10 +97,11 @@
 }
 #content5-18 .mbr-article P {
   text-align: center;
+  color: #000000;
 }
 #content5-19 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
 #content5-19 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -107,6 +109,10 @@
 }
 #content5-19 .mbr-article {
   color: #fff;
+}
+#content5-19 .mbr-article P {
+  text-align: center;
+  color: #000000;
 }
 #content5-15 .mbr-header .mbr-header__text {
   text-align: center;
