@@ -34,6 +34,21 @@
 #footer1-j P {
   text-align: center;
 }
+#content5-2j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #000000;
+}
+#content5-2j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-2j .mbr-article {
+  color: #fff;
+}
+#content5-2j .mbr-article P {
+  text-align: center;
+  color: #000000;
+}
 #dropdown-menu-6 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -54,34 +69,16 @@
 #dropdown-menu-6 .navbar-toggler {
   color: #000000;
 }
-#content5-e .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #252525;
-}
-#content5-e .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-e .mbr-article {
-  color: #fff;
-}
-#content5-e .mbr-article UL {
-  text-align: center;
-}
-#content5-e .mbr-article P {
-  text-align: center;
-  color: #000000;
-}
 #content5-17 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
 #content5-17 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
 #content5-17 .mbr-article {
-  color: #fff;
+  color: #000000;
   text-align: center;
 }
 #content5-18 .mbr-header .mbr-header__text {
