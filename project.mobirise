@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "Academic calender.html",
+    "currentPage": "ABOUT.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -677,7 +677,7 @@
             "showArrow": true
           },
           "title": "What is Parents portal?",
-          "text": "Parent involvement is crucial to student academic success. The Parent Portal is a tool for you to stay informed and engaged in your child’s education. The Parent Portal gives parents and guardians access to:<br><br>View your child’s grades<br>See your child’s timetable&nbsp;<br>View your child’s fees information<br>Stay current on your child's warning letter, <br>ptptn and examination dates<br>View your child's academic calendar<br>Contact Us<br><br>",
+          "text": "Parent involvement is crucial to student academic success. The Parent Portal is a tool for you to stay informed and engaged in your child’s education. The Parent Portal gives parents and guardians access to:<br><br>View your child’s grades<br>See your child’s timetable&nbsp;<br>View your child’s fees information<br>Stay current on your child's warning letter, <br>ptptn and examination dates<br>View your child's academic calendar<br>Contact Us<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"information of student.html\" data-toolbar=\"-mbrBtnMove\">CLICK TO STUDENT INFORMATION</a> "
         },
         {
@@ -1205,7 +1205,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#faaf40"
+              "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
               "background": "#ffffff"
@@ -1214,7 +1214,7 @@
               "background": "#f5f5f5"
             },
             ".navbar-toggler": {
-              "color": "#faaf40"
+              "color": "#000000"
             },
             ".btn": {
               "font-size": "11px"
