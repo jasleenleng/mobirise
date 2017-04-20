@@ -344,7 +344,7 @@
 #dropdown-menu-v .nav .link,
 #dropdown-menu-v .dropdown-item {
   font-size: 1em;
-  color: #000000;
+  color: #7ac673;
 }
 #dropdown-menu-v .navbar,
 #dropdown-menu-v .dropdown-menu {
@@ -356,7 +356,7 @@
   background: #f5f5f5;
 }
 #dropdown-menu-v .navbar-toggler {
-  color: #000000;
+  color: #7ac673;
 }
 #dropdown-menu-v .btn {
   font-size: 11px;
@@ -367,6 +367,7 @@
 #content4-x P {
   font-family: 'Lora', serif;
   font-size: 15px;
+  color: #000000;
 }
 #content4-x .mbr-section__col .mbr-header__text {
   font-size: 17px;

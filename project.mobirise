@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "academic result.html",
+    "currentPage": "FAQs.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1650,7 +1650,7 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#000000"
+              "color": "#7ac673"
             },
             ".navbar, .dropdown-menu": {
               "background": "#ffffff"
@@ -1659,7 +1659,7 @@
               "background": "#f5f5f5"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#7ac673"
             },
             ".btn": {
               "font-size": "11px"
@@ -1731,7 +1731,8 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "15px"
+              "font-size": "15px",
+              "color": "#000000"
             },
             ".mbr-section__col .mbr-header__text": {
               "font-size": "17px"
@@ -1741,11 +1742,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
             "bgColor": "#fff",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1755,7 +1756,7 @@
             "overlayColor": "#222",
             "showHeader": true,
             "showSubheader": false,
-            "columns": "5",
+            "columns": "2",
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
@@ -1781,8 +1782,8 @@
               "size": 0
             }
           },
-          "title1": "LOGIN",
-          "caption1": "Q. How does one get a INTI Subang Parent Portal username and password? <br>Q. Do I need a separate login for each of my children? <br>Q. How many times can I log in incorrectly?<br>Q. I try to log on to the site, but I keep getting an error message \"login has expired\" or \"cannot access site\". What is wrong?<br>Q. When I go to the log on page, the password fills in with dots all the way across. Why?<br><br>",
+          "title1": "",
+          "caption1": "Q. How many times can I log in daily? \n<br>A.&nbsp;There is no limit to how many times you can login daily<br><br>Q: How do I access Inti Subang Parents Portal?\n<br>A: By going into https://lengjasleen.github.io/mobirise/intisubangportal.html,then clicking on the login button at the top right corner of the page, entering the right username and password will bring you there.\n<br><br>Q: Are the fees information at the link directed to us from the parent’s portal reliable and accurate and updated always?\n<br>A: Yes. The link which is directed is constantly monitored by finance department of Inti International College Subang and autoupdated and saved via the system itself.\n<br><br><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -1801,8 +1802,8 @@
               "size": 0
             }
           },
-          "title2": "ACCESS",
-          "caption2": "Q. When can I access the INTI Subang Parent Portal?<br>Q. Is this system secure? <br>Q. Can other people see my child's grades?<br>Q. Can I access the PowerSchool Parent Portal from anywhere?<br>Q. My husband/wife and I are separated/divorced or we want our own logins; can we get another parent username and password for our child’s account? <br>Q. Do I need a new username and password each year if my child is returning?<br>Q. What if I do not have a computer at home or do not have access to the Internet?<br>Q What kind of computer equipment do I need to view PowerSchool Parent Portal?<br>",
+          "title2": "",
+          "caption2": "Q: How do I contact the website person if I were to still have other questions not stated in FAQS? <br>A: Just click on the contact us button and provide your personal details on the contact form, our Inti representatives will get back to you as soon as possible. <br><br>Q: How do I determine the choice of stay for my kid? <br>A: By clicking into the additional information located at the top of the page, under what inti provides you are able to choose the accommodation suggested by the site. <br><br>Q: How do I know what events are happening at INTI at any particular date or time? <br>A: By clicking into academic calendar, it will automatically direct u to iics digital hub which will show u the academic calendar of the past and the current.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
