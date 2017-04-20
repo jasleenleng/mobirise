@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "forum.html",
+    "currentPage": "CONTACT US.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -784,7 +784,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#3c3c3c",
             "bgColorRadio": false,
             "overlay": true,
@@ -811,7 +811,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1329.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "overlay": true,
@@ -847,7 +847,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
