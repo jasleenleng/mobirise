@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "portal main page.html",
+    "currentPage": "Academic calender.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -941,6 +941,9 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -957,7 +960,7 @@
             "showButton": true,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {

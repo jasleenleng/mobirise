@@ -239,6 +239,9 @@
 #msg-box3-m .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#msg-box3-m .mbr-article P {
+  color: #000000;
+}
 #footer1-12 P {
   text-align: center;
 }
