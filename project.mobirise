@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "CONTACT US.html",
+    "currentPage": "academic result.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -300,7 +300,7 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "FEE INFORMATION",
+          "title": "FEES INFORMATION",
           "meta": "By John Smith posted July 30, 2015",
           "text": "Using your child's student id and password to login their online portal, you are able to refer back to the past invoices and make payment online there.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://iicsenrol.newinti.edu.my\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a> "
@@ -805,6 +805,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "form1-i",
           "_params": {
             "paddingTop": 3,
@@ -847,12 +852,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -978,10 +978,10 @@
             "showMeta": false,
             "darkBackground": false
           },
-          "title": "Academic Calender",
+          "title": "Academic Calendar",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>The Academic Calendar serves as an information source and planning document for students, faculty, staff and departments, as well as outside organizations. The calendar includes registration dates, class start dates, add/drop deadlines, exam dates and more.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://iics-sls.newinti.edu.my/college-calendar-2017-student-copy\" data-toolbar=\"-mbrBtnMove\">VIEW THE CALENDER</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://iics-sls.newinti.edu.my/college-calendar-2017-student-copy\" data-toolbar=\"-mbrBtnMove\">VIEW THE CALENDAR</a>"
         },
         {
           "_tags": [
