@@ -652,3 +652,29 @@
   color: #000000;
   text-align: left;
 }
+#dropdown-menu-2l .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2l .nav .link,
+#dropdown-menu-2l .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2l .navbar,
+#dropdown-menu-2l .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2l .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2l .dropdown-menu a:hover,
+#dropdown-menu-2l .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2l .navbar-toggler {
+  color: #000000;
+}
+#dropdown-menu-2l .btn {
+  font-size: 11px;
+}
+#footer1-2m P {
+  text-align: center;
+}
