@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-04-10_0036",
-    "currentPage": "academic result.html",
+    "currentPage": "information of student.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1346,7 +1346,7 @@
           },
           "title2": "ATTENDANCE",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">IGNORE PLEASE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/document/d/1niOkOwIiRBVlFvX66izX_4SNwrfQJ6vOBo4Ik5PaEBI/pub\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE<br></a>",
           "media3": {
             "image": {
               "active": true,
