@@ -49,6 +49,16 @@
   text-align: center;
   color: #000000;
 }
+#msg-box3-2o .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2o .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2o .mbr-article {
+  color: #000000;
+  text-align: center;
+}
 #dropdown-menu-6 .hide-buttons [data-button] {
   display: none !important;
 }

@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -205,6 +205,51 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Login to this website using your child's student ID and password, search for the email with the title 'grade report' sent by donotreply.newinti.edu.my. The link in the email will direct you to your child's grade report for that semester.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://tcms.inti.edu.my/TCMSGR/GradeReportView.aspx?GUID=5A0BB1A5-E1CE-434C-8FB0-5FA57FA56341\" data-toolbar=\"-mbrBtnMove\">SEMESTER 1</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://tcms.inti.edu.my/TCMSGR/GradeReportView.aspx?GUID=B552E274-59EF-4046-8896-E616749B98F5\" data-toolbar=\"-mbrBtnMove\">SEMESTER 2</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://tcms2.inti.edu.my/TCMSGR/GradeReportView.aspx?GUID=39A42BDF-0E53-46E0-AEA4-4307020BD8FE\" data-toolbar=\"-mbrBtnMove\">SEMESTER 3</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://tcms3.inti.edu.my/TCMSGR/GradeReportView.aspx?GUID=820E30F4-B162-4B56-8103-3238FD3A9B61\" data-toolbar=\"-mbrBtnMove\">SEMESTER 4</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://tcms3.inti.edu.my/TCMSGR/GradeReportView.aspx?GUID=B5CA2205-0784-4ADE-91AE-EB83FFB248B7\" data-toolbar=\"-mbrBtnMove\">SEMESTER 5</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2o",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "ATTENDANCE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Check your children's attendace frequently.",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/document/d/1niOkOwIiRBVlFvX66izX_4SNwrfQJ6vOBo4Ik5PaEBI/pub\" data-toolbar=\"-mbrBtnMove\">CLICK HERE<br></a>"
         },
         {
           "_styles": {
@@ -1346,7 +1391,7 @@
           },
           "title2": "ATTENDANCE",
           "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/document/d/1niOkOwIiRBVlFvX66izX_4SNwrfQJ6vOBo4Ik5PaEBI/pub\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE<br></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"academic result.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">CLICK HERE<br></a>",
           "media3": {
             "image": {
               "active": true,
